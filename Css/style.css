@@ -1,0 +1,11 @@
+body {
+  background-color: transparent;
+
+}
+
+.presentations{
+  display: block;
+  margin: auto;
+  height: 200pt;
+  float: right;
+}
