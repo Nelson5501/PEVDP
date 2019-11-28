@@ -1,4 +1,5 @@
-   <a src="https://www.instagram.com/pevdp/?hl=fr texte-right"><img
-            src="https://img.icons8.com/material-rounded/28/000000/facebook-f--v1.png"></a>
-        <a src=""><img src="https://img.icons8.com/material-sharp/28/000000/twitter-squared.png">
-          <img src="https://img.icons8.com/ios-glyphs/28/000000/instagram-new.png">
+ <div class="container">
+              <div class="row">
+                <div class="col-9 col-sm-6 col-md-6 col-lg-è col-xl-7">
+                  <h1 id="textnavbar">Pierre-Emmanuel Vandeputte </h1>
+                </div>
